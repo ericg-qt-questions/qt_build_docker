@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:ericg</key>
+	<false/>
+	<key>ExpandedEditorWidth:ericg:displays([(0, 0), (2560, 1440)]:[(-1920, 360), (1920, 1080)])</key>
+	<integer>646</integer>
+	<key>ExpandedItems:ericg</key>
+	<array>
+		<string>864B8B57-F8B0-4E39-A326-DF781271A57E</string>
+		<dict>
+			<key>BookmarkData</key>
+			<data>
+			Ym9va/gCAAAAAAQQMAAAAFBaoZ1pH0VUXCi3EeIOYRLPW8rhSbSh
+			YnFvAoiSQeze9AEAAAQAAAADAwAAAAgAKAUAAAABAQAAVXNlcnMA
+			AAAFAAAAAQEAAGVyaWNnAAAADgAAAAEBAABkZXBvdF9xdWVzdGlv
+			bgAADwAAAAEBAABxdF9idWlsZF9kb2NrZXIAEQAAAAEBAABkZXZl
+			bG9wbWVudF9ub3RlcwAAABQAAAABBgAAEAAAACAAAAAwAAAASAAA
+			AGAAAAAIAAAABAMAAHtTAAADAAAACAAAAAQDAABdwC8AAwAAAAgA
+			AAAEAwAAMj89AAMAAAAIAAAABAMAAK785AADAAAACAAAAAQDAACV
+			avIAAwAAABQAAAABBgAAmAAAAKgAAAC4AAAAyAAAANgAAAAIAAAA
+			AAQAAEHC5MnqZ28QGAAAAAECAAACAAAAAAAAAA8AAAAAAAAAAAAA
+			AAAAAAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAAAAEJ
+			AABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQDAAAA
+			wFrM6AAAAAgAAAAABAAAQcLUb7S3iu4kAAAAAQEAAERCMjNGRjlC
+			LUYyMjUtMzkxRi05MjAzLTBGQTk1MzdFRDkyQRgAAAABAgAAgQAA
+			AAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEF
+			AADMAAAA/v///wEAAAAAAAAAEAAAAAQQAAB8AAAAAAAAAAUQAADo
+			AAAAAAAAABAQAAAUAQAAAAAAAEAQAAAEAQAAAAAAAAIgAADgAQAA
+			AAAAAAUgAABQAQAAAAAAABAgAABgAQAAAAAAABEgAACUAQAAAAAA
+			ABIgAAB0AQAAAAAAABMgAACEAQAAAAAAACAgAADAAQAAAAAAADAg
+			AADsAQAAAAAAAAHAAAA0AQAAAAAAABHAAAAgAAAAAAAAABLAAABE
+			AQAAAAAAABDQAAAEAAAAAAAAAA==
+			</data>
+			<key>FileURL</key>
+			<string>file:///Users/ericg/depot_question/qt_build_docker/development_notes/</string>
+			<key>HasSecurityScope</key>
+			<true/>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>FileFilterMode:ericg</key>
+	<integer>0</integer>
+	<key>OpenDocuments:ericg</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsSplitterProportion</key>
+	<real>1.0489795918367346</real>
+	<key>ProjectItemsExpanded</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<true/>
+	<key>RecentItems:ericg</key>
+	<array/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<false/>
+	<key>ShowSCMData:ericg</key>
+	<false/>
+	<key>ToolbarVisible:ericg</key>
+	<false/>
+	<key>ViewSplitterPosition:ericg</key>
+	<real>0.23910482227802277</real>
+	<key>WindowFrame:ericg:displays([(0, 0), (2560, 1440)]:[(-1920, 360), (1920, 1080)])</key>
+	<string>rect(950,-1098,1440,-249)</string>
+</dict>
+</plist>
