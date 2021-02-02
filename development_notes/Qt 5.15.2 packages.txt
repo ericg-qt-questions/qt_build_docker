@@ -1,0 +1,41 @@
+Arguments: ./MaintenanceTool, li
+Operations sanity check succeeded.
+Id: qt.license.lgpl
+	Display name: Qt License LGPL
+	Version: 1.0.2
+Id: qt.tools.ninja
+	Display name: Ninja 1.10.0
+	Version: 1.10.0-202005270934
+Id: qt.tools.qtcreator
+	Display name: Qt Creator 4.14.0
+	Version: 4.14.0-0-202012170942
+Id: qt.license.thirdparty
+	Display name: Qt 3rd Party Licenses
+	Version: 1.0.0
+Id: qt.qt5.5152.doc
+	Display name: Qt 5.15.2 Documentation
+	Version: 5.15.2-0-202011130614
+Id: qt.tools
+	Display name: Developer and Designer Tools
+	Version: 1.1.8-0-202011021046
+Id: qt.qt5.5152.examples
+	Display name: Qt 5.15.2 Examples
+	Version: 5.15.2-0-202011130614
+Id: qt.tools.cmake
+	Display name: CMake 3.19.2
+	Version: 3.19.2-202101071154
+Id: qt.tools.qtcreator.telemetry
+	Display name: Qt Telemetry plugin
+	Version: 4.14.0-0-202012170951
+Id: qt
+	Display name: Qt
+	Version: 1.0.15
+Id: qt.qt5.5152
+	Display name: Qt 5.15.2
+	Version: 5.15.2-0-202011130614
+Id: qt.tools.maintenance
+	Display name: Maintenance Tool
+	Version: 4.0.1-1-0-202101190654
+Id: qt.qt5.5152.gcc_64
+	Display name: Desktop gcc 64-bit
+	Version: 5.15.2-0-202011130601

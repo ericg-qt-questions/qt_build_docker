@@ -1,0 +1,521 @@
+./qt-unified-linux-x64-4.0.1-1-online.run --accept-licenses --da --ao --confirm-command install qt.license.lgpl qt.tools.ninja qt.tools.qtcreator qt.license.thirdparty qt.qt5.51210.doc qt.tools qt.tools.cmake qt qt.qt5.51210 qt.tools.maintenance qt.qt5.51210.gcc_64
+
+./qt-unified-linux-x64-4.0.1-1-online.run --accept-licenses --da --ao --confirm-command install qt.tools.ninja qt.tools.qtcreator qt.tools.cmake qt.qt5.51210.gcc_64
+
+
+
+ericg@ubuntu ~/Qt> ./MaintenanceTool li
+[0] Arguments: ./MaintenanceTool, li
+[39] Operations sanity check succeeded.
+[39] Id: qt.qt5.51210.qtpurchasing.android_armv7
+[39] 	Display name: Qt Purchasing for Android ARMv7
+[39] 	Version: 5.12.10-0-202011040904
+[39] Id: qt.qt5.51210.qtnetworkauth.gcc_64
+[39] 	Display name: Qt Network Authorization for gcc 64-bit
+[39] 	Version: 5.12.10-0-202011040843
+[39] Id: qt.qt5.51210.qtscript.gcc_64
+[39] 	Display name: Qt Script for gcc 64-bit
+[39] 	Version: 5.12.10-0-202011040843
+[39] Id: qt.qt5.51210.doc.qtwebengine
+[39] 	Display name: Documentation for QtWebEngine
+[39] 	Version: 5.12.10-0-202011040853
+[39] Id: qt.qt5.51210.debug_info.gcc_64
+[39] 	Display name: Desktop gcc 64-bit Debug Information Files
+[39] 	Version: 5.12.10-0-202011040843
+[39] Id: qt.qt5.5122.examples
+[39] 	Display name: Qt 5.12.2 Examples
+[39] 	Version: 5.12.2-0-201903121945
+[39] Id: qt.tools.qt3dstudioopenglruntime.5125.android_x86
+[39] 	Display name: Android x86
+[39] 	Version: 2.5.0-0-201910301136
+[39] Id: qt.qt5.5120.examples
+[39] 	Display name: Qt 5.12.0 Examples
+[39] 	Version: 5.12.0-0-201812040400
+[39] Id: qt.qt5.51210.android_x86
+[39] 	Display name: Android x86
+[39] 	Version: 5.12.10-0-202011040904
+[39] Id: qt.tools.qt3dstudioopenglruntime.5128.android_x86
+[39] 	Display name: Android x86
+[39] 	Version: 2.7.0-0-202006021106
+[39] Id: qt.tools.qt3dstudioruntime.5122.android_armv7
+[39] 	Display name: Android ARMv7
+[39] 	Version: 2.3.0-0-201904010641
+[39] Id: qt.tools.qtdesignstudio
+[39] 	Display name: Qt Design Studio 2.0.0-community
+[39] 	Version: 2.0.0-0-202012180501
+[39] Id: qt.qt5.5125.android_arm64_v8a
+[39] 	Display name: Android ARM64-v8a
+[39] 	Version: 5.12.5-0-201909090517
+[39] Id: qt.tools.qt3dstudioopenglruntime.5124.android_x86
+[39] 	Display name: Android x86
+[39] 	Version: 2.4.0-0-201906261206
+[39] Id: qt.qt5.51210.examples.qtnetworkauth
+[39] 	Display name: Examples for Qt Networkauth (Technology Preview)
+[39] 	Version: 5.12.10-0-202011040853
+[39] Id: qt.qt5.51210
+[39] 	Display name: Qt 5.12.10
+[39] 	Version: 5.12.10-0-202011040853
+[39] Id: qt.qt5.51210.qtcharts.android_arm64_v8a
+[39] 	Display name: Qt Charts for Android ARM64-v8a
+[39] 	Version: 5.12.10-0-202011040904
+[39] Id: qt.qt5.5122.android_x86
+[39] 	Display name: Android x86
+[39] 	Version: 5.12.2-0-201903122034
+[39] Id: qt.tools.qtcreatordev
+[39] 	Display name: Qt Creator 4.14.0 Plugin Development
+[39] 	Version: 4.14.0-0-202012170942
+[39] Id: qt.qt5.51210.qtwebengine.gcc_64
+[39] 	Display name: Qt WebEngine for Desktop gcc 64-bit
+[39] 	Version: 5.12.10-0-202011040843
+[39] Id: qt.tools.qt3dstudioopenglruntime.5125.android_arm64_v8a
+[39] 	Display name: Android ARM64-v8a
+[40] 	Version: 2.5.0-0-201910301136
+[40] Id: qt.qt5.51210.qtnetworkauth.android_x86
+[40] 	Display name: Qt Network Authorization for Android x86
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.qt5.5120.android_x86
+[40] 	Display name: Android x86
+[40] 	Version: 5.12.0-0-201812040419
+[40] Id: qt.qt5.5120.gcc_64
+[40] 	Display name: Desktop gcc 64-bit
+[40] 	Version: 5.12.0-0-201812040340
+[40] Id: qt.qt5.51210.qtcharts
+[40] 	Display name: Qt Charts
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.qt5.51210.qtnetworkauth.android_arm64_v8a
+[40] 	Display name: Qt Network Authorization for Android ARM64-v8a
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.tools.qt3dstudioopenglruntime.5124
+[40] 	Display name: Qt 3D Studio OpenGL Runtime 2.4.0 for Qt 5.12.4
+[40] 	Version: 2.4.0-0-201906261204
+[40] Id: qt.tools.qt3dstudioruntime.5124.android_x86
+[40] 	Display name: Android x86
+[40] 	Version: 2.4.0-0-201906251242
+[40] Id: qt.qt5.51210.qtpurchasing.gcc_64
+[40] 	Display name: Qt Purchasing for gcc 64-bit
+[40] 	Version: 5.12.10-0-202011040843
+[40] Id: qt.qt5.51210.qtcharts.android_x86
+[40] 	Display name: Qt Charts for Android x86
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.qt5.51210.qtvirtualkeyboard.gcc_64
+[40] 	Display name: Qt Virtual Keyboard for gcc 64-bit
+[40] 	Version: 5.12.10-0-202011040843
+[40] Id: qt.qt5.51210.qtscript.android_x86
+[40] 	Display name: Qt Script for Android x86
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.qt5.51210.qtnetworkauth
+[40] 	Display name: Qt Network Authorization
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.tools.qt3dstudioopenglruntime.5151.android
+[40] 	Display name: Android
+[40] 	Version: 2.8.0-0-202011130942
+[40] Id: qt.tools.qt3dstudioopenglruntime.5151
+[40] 	Display name: Qt 3D Studio OpenGL Runtime 2.8.0 for Qt 5.15.1
+[40] 	Version: 2.8.0-0-202011130942
+[40] Id: qt.tools.qt3dstudioruntime.5124.examples
+[40] 	Display name: Qt 3D Studio Runtime 2.4.0 examples
+[40] 	Version: 2.4.0-0-201906251241
+[40] Id: qt.qt5.51210.doc.qtdatavis3d
+[40] 	Display name: Documentation for Qt 5.12.10 GPLv3 components (QtDataVisualization)
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.qt5.51210.doc.qtnetworkauth
+[40] 	Display name: Documentation for Qt Networkauth (Technology Preview)
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.tools.openssl.gcc_64
+[40] 	Display name: OpenSSL binaries
+[40] 	Version: 1.1.1-4
+[40] Id: qt.tools.cmake
+[40] 	Display name: CMake 3.19.2
+[40] 	Version: 3.19.2-202101071154
+[40] Id: qt.qt5.51210.examples
+[40] 	Display name: Qt 5.12.10 Examples
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.tools.qt3dstudioopenglruntime.5129.android_armv7
+[40] 	Display name: Android ARMv7
+[40] 	Version: 2.8.0-0-202010230707
+[40] Id: qt.tools.qt3dstudioopenglruntime.5128.android_arm64_v8a
+[40] 	Display name: Android ARM64-v8a
+[40] 	Version: 2.7.0-0-202006021106
+[40] Id: qt.tools.qt3dstudioopenglruntime.5126.examples
+[40] 	Display name: Qt 3D Studio OpenGL Runtime 2.6.0 examples
+[40] 	Version: 2.6.0-0-202001310948
+[40] Id: qt.tools.qt3dstudioopenglruntime.5151.debug_info.gcc_64
+[40] 	Display name: Desktop gcc 64-bit Debug Information Files
+[40] 	Version: 2.8.0-0-202011130942
+[40] Id: qt.qt5.5120.android_arm64_v8a
+[40] 	Display name: Android ARM64-v8a
+[40] 	Version: 5.12.0-0-201812040419
+[40] Id: qt.qt5.5122.android_arm64_v8a
+[40] 	Display name: Android ARM64-v8a
+[40] 	Version: 5.12.2-0-201903122034
+[40] Id: qt.tools.qt3dstudioruntime.5120.android_x86
+[40] 	Display name: Android x86
+[40] 	Version: 2.2.0-0-201812121326
+[40] Id: qt.tools.qtcreatordbg
+[40] 	Display name: Qt Creator 4.14.0 Debug Symbols
+[40] 	Version: 4.14.0-0-202012170942
+[40] Id: qt.qt5.5124.android_x86
+[40] 	Display name: Android x86
+[40] 	Version: 5.12.4-0-201906140209
+[40] Id: qt.qt5.51210.src
+[40] 	Display name: Sources
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.qt5.51210.doc.qtvirtualkeyboard
+[40] 	Display name: Documentation for Qt 5.12.10 GPLv3 components (QtVirtualKeyboard)
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.qt5.51210.examples.qtcharts
+[40] 	Display name: Examples for Qt 5.12.10 GPLv3 components (QtCharts)
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.license.gplv3except
+[40] 	Display name: License GPL3-EXCEPT
+[40] 	Version: 1.0.0-1
+[40] Id: qt.qt5.51210.qtwebengine
+[40] 	Display name: Qt WebEngine
+[40] 	Version: 5.12.10-0-202011040843
+[40] Id: qt.qt5.5124.android_arm64_v8a
+[40] 	Display name: Android ARM64-v8a
+[40] 	Version: 5.12.4-0-201906140209
+[40] Id: qt.tools.qt3dstudioopenglruntime.5150.android
+[40] 	Display name: Android
+[40] 	Version: 2.7.0-0-202006230432
+[40] Id: qt.qt5.51210.examples.qtpurchasing
+[40] 	Display name: Examples for Qt 5.12.10 GPLv3 components (QtPurchasing)
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.qt5.51210.qtscript.android_armv7
+[40] 	Display name: Qt Script for Android ARMv7
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.tools.qt3dstudio
+[40] 	Display name: Qt 3D Studio 2.8.0
+[40] 	Version: 2.8.0-0-202010261257
+[40] Id: qt.tools.qt3dstudioopenglruntime.5129.debug_info.gcc_64
+[40] 	Display name: Desktop gcc 64-bit Debug Information Files
+[40] 	Version: 2.8.0-0-202010230707
+[40] Id: qt.tools.conan.cmake
+[40] 	Display name: Conan conan.cmake
+[40] 	Version: 0.16.0-202010220608
+[40] Id: qt.tools.openssl.src
+[40] 	Display name: OpenSSL source code
+[40] 	Version: 1.1.1-4
+[40] Id: qt.tools.qt3dstudioruntime.5122.gcc_64
+[40] 	Display name: GCC 64-bit
+[40] 	Version: 2.3.0-0-201904010639
+[40] Id: qt.tools.qt3dstudioopenglruntime.5129.android_x86
+[40] 	Display name: Android x86
+[40] 	Version: 2.8.0-0-202010230707
+[40] Id: qt.qt5.5125.android_armv7
+[40] 	Display name: Android ARMv7
+[40] 	Version: 5.12.5-0-201909090517
+[40] Id: qt.qt5.51210.debug_info
+[40] 	Display name: Qt Debug Information Files
+[40] 	Version: 5.12.10-0-202011040843
+[40] Id: qt.qt5.5122.gcc_64
+[40] 	Display name: Desktop gcc 64-bit
+[40] 	Version: 5.12.2-0-201903121858
+[40] Id: qt.qt5.51210.examples.qtwebengine
+[40] 	Display name: Examples for QtWebEngine
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.tools.qt3dstudioopenglruntime.5128.debug_info.gcc_64
+[40] 	Display name: Desktop gcc 64-bit Debug Information Files
+[40] 	Version: 2.7.0-0-202006021105
+[40] Id: qt.qt5.51210.qtwebglplugin
+[40] 	Display name: Qt WebGL Streaming Plugin
+[40] 	Version: 5.12.10-0-202011040843
+[40] Id: qt.tools.qt3dstudioopenglruntime.5124.gcc_64
+[40] 	Display name: GCC 64-bit
+[40] 	Version: 2.4.0-0-201906261204
+[40] Id: qt.qt5.51210.examples.qtvirtualkeyboard
+[40] 	Display name: Examples for Qt 5.12.10 GPLv3 components (QtVirtualKeyboard)
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.tools.ifw.40
+[40] 	Display name: Qt Installer Framework 4.0
+[40] 	Version: 4.0.1-202012091043
+[40] Id: qt.tools.qt3dstudioruntime.5122
+[40] 	Display name: Qt 3D Studio Runtime 2.3.0 for Qt 5.12.2
+[40] 	Version: 2.3.0-0-201904010639
+[40] Id: qt.tools.qt3dstudioopenglruntime.5150.debug_info.gcc_64
+[40] 	Display name: Desktop gcc 64-bit Debug Information Files
+[40] 	Version: 2.7.0-0-202006230431
+[40] Id: qt.qt5.5124.examples
+[40] 	Display name: Qt 5.12.4 Examples
+[40] 	Version: 5.12.4-0-201906140200
+[40] Id: qt.tools.qt3dstudioopenglruntime.5129.examples
+[40] 	Display name: Qt 3D Studio OpenGL Runtime 2.8.0 examples
+[40] 	Version: 2.8.0-0-202010230707
+[40] Id: qt.tools.qt3dstudioopenglruntime.5129.android_arm64_v8a
+[40] 	Display name: Android ARM64-v8a
+[40] 	Version: 2.8.0-0-202010230707
+[40] Id: qt.license.lgpl
+[40] 	Display name: Qt License LGPL
+[40] 	Version: 1.0.2
+[40] Id: qt.qt5.5122.doc
+[40] 	Display name: Qt 5.12.2 Documentation
+[40] 	Version: 5.12.2-0-201903121945
+[40] Id: qt.qt5.51210.qtwebglplugin.gcc_64
+[40] 	Display name: Qt WebGL Streaming Plugin for gcc 64-bit
+[40] 	Version: 5.12.10-0-202011040843
+[40] Id: qt.qt5.5122.android_armv7
+[40] 	Display name: Android ARMv7
+[40] 	Version: 5.12.2-0-201903122034
+[40] Id: qt.tools.qt3dstudioopenglruntime.5126.android_arm64_v8a
+[40] 	Display name: Android ARM64-v8a
+[40] 	Version: 2.6.0-0-202001310951
+[40] Id: qt.tools.qt3dstudioopenglruntime.5129
+[40] 	Display name: Qt 3D Studio OpenGL Runtime 2.8.0 for Qt 5.12.9
+[40] 	Version: 2.8.0-0-202010230707
+[40] Id: qt.tools.qt3dstudioopenglruntime.5125.examples
+[40] 	Display name: Qt 3D Studio OpenGL Runtime 2.5.0 examples
+[40] 	Version: 2.5.0-0-201910301135
+[40] Id: qt.tools.qt3dstudioopenglruntime.5124.examples
+[40] 	Display name: Qt 3D Studio OpenGL Runtime 2.4.0 examples
+[40] 	Version: 2.4.0-0-201906261204
+[40] Id: qt.qt5.5125.gcc_64
+[40] 	Display name: Desktop gcc 64-bit
+[40] 	Version: 5.12.5-0-201909090440
+[40] Id: qt.qt5.51210.qtscript.android_arm64_v8a
+[40] 	Display name: Qt Script for Android ARM64-v8a
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt
+[40] 	Display name: Qt
+[40] 	Version: 1.0.15
+[40] Id: qt.tools.qt3dstudioopenglruntime.5126.android_armv7
+[40] 	Display name: Android ARMv7
+[40] 	Version: 2.6.0-0-202001310951
+[40] Id: qt.tools.qt3dstudioopenglruntime.5126.android_x86
+[40] 	Display name: Android x86
+[40] 	Version: 2.6.0-0-202001310951
+[40] Id: qt.qt5.51210.doc
+[40] 	Display name: Qt 5.12.10 Documentation
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.qt5.51210.qtdatavis3d.gcc_64
+[40] 	Display name: Qt Data Visualization for gcc 64-bit
+[40] 	Version: 5.12.10-0-202011040843
+[40] Id: qt.tools.qt3dstudioopenglruntime.5125
+[40] 	Display name: Qt 3D Studio OpenGL Runtime 2.5.0 for Qt 5.12.5
+[40] 	Version: 2.5.0-0-201910301135
+[40] Id: qt.tools.qt3dstudioruntime.5122.android_arm64_v8a
+[40] 	Display name: Android ARM64-v8a
+[40] 	Version: 2.3.0-0-201904010641
+[40] Id: qt.tools.qt3dstudioopenglruntime.5128.gcc_64
+[40] 	Display name: GCC 64-bit
+[40] 	Version: 2.7.0-0-202006021105
+[40] Id: qt.qt5.51210.doc.qtcharts
+[40] 	Display name: Documentation for Qt 5.12.10 GPLv3 components (QtCharts)
+[40] 	Version: 5.12.10-0-202011040853
+[40] Id: qt.tools.qt3dstudioopenglruntime.5126.gcc_64
+[40] 	Display name: GCC 64-bit
+[40] 	Version: 2.6.0-0-202001310948
+[40] Id: qt.tools.qt3dstudioruntime.5120.android_armv7
+[40] 	Display name: Android ARMv7
+[40] 	Version: 2.2.0-0-201812121326
+[40] Id: qt.tools.qt3dstudioopenglruntime.5125.debug_info.gcc_64
+[40] 	Display name: Desktop gcc 64-bit Debug Information Files
+[40] 	Version: 2.5.0-0-201910301135
+[40] Id: qt.tools.qt3dstudioopenglruntime.5150
+[40] 	Display name: Qt 3D Studio OpenGL Runtime 2.7.0 for Qt 5.15.0
+[40] 	Version: 2.7.0-0-202006230431
+[40] Id: qt.tools.qt3dstudioopenglruntime.5124.android_armv7
+[40] 	Display name: Android ARMv7
+[40] 	Version: 2.4.0-0-201906261206
+[40] Id: qt.qt5.51210.qtcharts.android_armv7
+[40] 	Display name: Qt Charts for Android ARMv7
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.qt5.51210.android_arm64_v8a
+[40] 	Display name: Android ARM64-v8a
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.tools.qt3dstudioruntime.5120.android_arm64_v8a
+[40] 	Display name: Android ARM64-v8a
+[40] 	Version: 2.2.0-0-201812121326
+[40] Id: qt.tools.qt3dstudioopenglruntime.5125.android_armv7
+[40] 	Display name: Android ARMv7
+[40] 	Version: 2.5.0-0-201910301136
+[40] Id: qt.qt5.51210.android_armv7
+[40] 	Display name: Android ARMv7
+[40] 	Version: 5.12.10-0-202011040904
+[40] Id: qt.tools.qt3dstudioopenglruntime.5126.debug_info.gcc_64
+[40] 	Display name: Desktop gcc 64-bit Debug Information Files
+[40] 	Version: 2.6.0-0-202001310948
+[40] Id: qt.tools
+[40] 	Display name: Developer and Designer Tools
+[40] 	Version: 1.1.8-0-202011021046
+[40] Id: qt.qt5.5124.gcc_64
+[40] 	Display name: Desktop gcc 64-bit
+[41] 	Version: 5.12.4-0-201906140147
+[41] Id: qt.tools.qt3dstudioruntime.5124
+[41] 	Display name: Qt 3D Studio Runtime 2.4.0 for Qt 5.12.4 (Deprecated)
+[41] 	Version: 2.4.0-0-201906251241
+[41] Id: qt.tools.qt3dstudioruntime.5124.android_arm64_v8a
+[41] 	Display name: Android ARM64-v8a
+[41] 	Version: 2.4.0-0-201906251242
+[41] Id: qt.tools.qt3dstudioopenglruntime.5128
+[41] 	Display name: Qt 3D Studio OpenGL Runtime 2.7.0 for Qt 5.12.8
+[41] 	Version: 2.7.0-0-202006021105
+[41] Id: qt.tools.qt3dstudioopenglruntime.5125.gcc_64
+[41] 	Display name: GCC 64-bit
+[41] 	Version: 2.5.0-0-201910301135
+[41] Id: qt.qt5.5120.android_armv7
+[41] 	Display name: Android ARMv7
+[41] 	Version: 5.12.0-0-201812040419
+[41] Id: qt.qt5.51210.examples.qtdatavis3d
+[41] 	Display name: Examples for Qt 5.12.10 GPLv3 components (QtDataVisualization)
+[41] 	Version: 5.12.10-0-202011040853
+[41] Id: qt.tools.qt3dstudioopenglruntime.5151.examples
+[41] 	Display name: Qt 3D Studio OpenGL Runtime 2.8.0 examples
+[41] 	Version: 2.8.0-0-202011130942
+[41] Id: qt.tools.qt3dstudioruntime.5124.gcc_64
+[41] 	Display name: GCC 64-bit
+[41] 	Version: 2.4.0-0-201906251241
+[41] Id: qt.qt5.51210.qtcharts.gcc_64
+[41] 	Display name: Qt Charts for gcc 64-bit
+[41] 	Version: 5.12.10-0-202011040843
+[41] Id: qt.tools.qt3dstudioopenglruntime.5128.android_armv7
+[41] 	Display name: Android ARMv7
+[41] 	Version: 2.7.0-0-202006021106
+[41] Id: qt.tools.qt3dstudioruntime.5120.gcc_64
+[41] 	Display name: GCC 64-bit
+[41] 	Version: 2.2.0-0-201812121324
+[41] Id: qt.qt5.5120.doc
+[41] 	Display name: Qt 5.12.0 Documentation
+[41] 	Version: 5.12.0-0-201812040400
+[41] Id: qt.tools.qt3dstudioopenglruntime.5150.gcc_64
+[41] 	Display name: GCC 64-bit
+[41] 	Version: 2.7.0-0-202006230431
+[41] Id: qt.qt5.51210.examples.qtscript
+[41] 	Display name: Examples for Qt 5.12.10 Deprecated components (QtScript)
+[41] 	Version: 5.12.10-0-202011040853
+[41] Id: qt.tools.qtcreator.telemetry
+[41] 	Display name: Qt Telemetry plugin
+[41] 	Version: 4.14.0-0-202012170951
+[41] Id: qt.qt5.51210.doc.qtscript
+[41] 	Display name: Documentation for Qt 5.12.10 Deprecated components (QtScript)
+[41] 	Version: 5.12.10-0-202011040853
+[41] Id: qt.tools.conan
+[41] 	Display name: Conan 1.30
+[41] 	Version: 1.30-202010220608
+[41] Id: qt.tools.maintenance
+[41] 	Display name: Maintenance Tool
+[41] 	Version: 4.0.1-1-0-202101190654
+[41] Id: qt.tools.openssl
+[41] 	Display name: OpenSSL 1.1.1d Toolkit
+[41] 	Version: 1.1.1-4
+[41] Id: qt.qt5.51210.gcc_64
+[41] 	Display name: Desktop gcc 64-bit
+[41] 	Version: 5.12.10-0-202011040843
+[41] Id: qt.qt5.5124.doc
+[41] 	Display name: Qt 5.12.4 Documentation
+[41] 	Version: 5.12.4-0-201906140200
+[41] Id: qt.tools.qt3dstudioopenglruntime.5128.examples
+[41] 	Display name: Qt 3D Studio OpenGL Runtime 2.7.0 examples
+[41] 	Version: 2.7.0-0-202006021105
+[41] Id: qt.tools.qt3dstudioopenglruntime.5126
+[41] 	Display name: Qt 3D Studio OpenGL Runtime 2.6.0 for Qt 5.12.6
+[41] 	Version: 2.6.0-0-202001310948
+[41] Id: qt.tools.qt3dstudioopenglruntime.5151.gcc_64
+[41] 	Display name: GCC 64-bit
+[41] 	Version: 2.8.0-0-202011130942
+[41] Id: qt.qt5.51210.qtdatavis3d.android_x86
+[41] 	Display name: Qt Data Visualization for Android x86
+[41] 	Version: 5.12.10-0-202011040904
+[41] Id: qt.qt5.5125.examples
+[41] 	Display name: Qt 5.12.5 Examples
+[41] 	Version: 5.12.5-0-201909090458
+[41] Id: qt.tools.qt3dstudioopenglruntime.5129.gcc_64
+[41] 	Display name: GCC 64-bit
+[41] 	Version: 2.8.0-0-202010230707
+[41] Id: qt.tools.qtcreator
+[41] 	Display name: Qt Creator 4.14.0
+[41] 	Version: 4.14.0-0-202012170942
+[41] Id: qt.tools.qt3dstudioopenglruntime.5150.examples
+[41] 	Display name: Qt 3D Studio OpenGL Runtime 2.7.0 examples
+[41] 	Version: 2.7.0-0-202006230431
+[41] Id: qt.tools.qt3dstudioruntime.5120.examples
+[41] 	Display name: Qt 3D Studio Runtime 2.2.0 examples
+[41] 	Version: 2.2.0-0-201812121324
+[41] Id: qt.tools.ninja
+[41] 	Display name: Ninja 1.10.0
+[41] 	Version: 1.10.0-202005270934
+[41] Id: qt.tools.qt3dstudioruntime.5122.android_x86
+[41] 	Display name: Android x86
+[41] 	Version: 2.3.0-0-201904010641
+[41] Id: qt.qt5.51210.qtdatavis3d.android_armv7
+[41] 	Display name: Qt Data Visualization for Android ARMv7
+[41] 	Version: 5.12.10-0-202011040904
+[41] Id: qt.qt5.51210.qtpurchasing.android_x86
+[41] 	Display name: Qt Purchasing for Android x86
+[41] 	Version: 5.12.10-0-202011040904
+[41] Id: qt.qt5.51210.qtvirtualkeyboard
+[41] 	Display name: Qt Virtual Keyboard
+[41] 	Version: 5.12.10-0-202011040843
+[41] Id: qt.tools.qt3dstudioopenglruntime.5124.android_arm64_v8a
+[41] 	Display name: Android ARM64-v8a
+[41] 	Version: 2.4.0-0-201906261206
+[41] Id: qt.tools.qt3dstudioruntime.5120
+[41] 	Display name: Qt 3D Studio Runtime 2.2.0 for Qt 5.12.0
+[41] 	Version: 2.2.0-0-201812121324
+[41] Id: qt.qt5.5124.android_armv7
+[41] 	Display name: Android ARMv7
+[41] 	Version: 5.12.4-0-201906140209
+[41] Id: qt.qt5.51210.qtpurchasing
+[41] 	Display name: Qt Purchasing
+[41] 	Version: 5.12.10-0-202011040904
+[41] Id: qt.qt5.5125.doc
+[41] 	Display name: Qt 5.12.5 Documentation
+[41] 	Version: 5.12.5-0-201909090458
+[41] Id: qt.qt5.51210.qtnetworkauth.android_armv7
+[41] 	Display name: Qt Network Authorization for Android ARMv7
+[41] 	Version: 5.12.10-0-202011040904
+[41] Id: qt.qt5.51210.qtpurchasing.android_arm64_v8a
+[41] 	Display name: Qt Purchasing for Android ARM64-v8a
+[41] 	Version: 5.12.10-0-202011040904
+[41] Id: qt.tools.qt3dstudioruntime.5124.android_armv7
+[41] 	Display name: Android ARMv7
+[41] 	Version: 2.4.0-0-201906251242
+[41] Id: qt.qt5.51210.qtdatavis3d.android_arm64_v8a
+[41] 	Display name: Qt Data Visualization for Android ARM64-v8a
+[41] 	Version: 5.12.10-0-202011040904
+[41] Id: qt.qt5.51210.qtdatavis3d
+[41] 	Display name: Qt Data Visualization
+[41] 	Version: 5.12.10-0-202011040904
+[41] Id: qt.tools.qt3dstudioruntime.5122.examples
+[41] 	Display name: Qt 3D Studio Runtime 2.3.0 examples
+[41] 	Version: 2.3.0-0-201904010639
+[41] Id: qt.license.thirdparty
+[41] 	Display name: Qt 3rd Party Licenses
+[41] 	Version: 1.0.0
+[41] Id: qt.qt5.5125.android_x86
+[41] 	Display name: Android x86
+[41] 	Version: 5.12.5-0-201909090517
+[41] Id: qt.qt5.51210.doc.qtpurchasing
+[41] 	Display name: Documentation for Qt 5.12.10 GPLv3 components (QtPurchasing)
+[41] 	Version: 5.12.10-0-202011040853
+[41] Id: qt.qt5.51210.qtscript
+[41] 	Display name: Qt Script (Deprecated)
+[41] 	Version: 5.12.10-0-202011040904
+ericg@ubuntu ~/Qt>
+
+
+
+$ ll
+
+ 5.12.0/
+ 5.12.10/
+ 5.12.2/
+ 5.12.4/
+ 5.12.5/
+ 5.12.6/
+ 5.12.8/
+ 5.12.9/
+ 5.15.0/
+ 5.15.1/
+ components.xml
+ dist/
+ Docs/
+ Examples/
+ InstallationLog.txt
+ installer.dat
+ installerResources/
+ Licenses/
+ MaintenanceTool*
+ MaintenanceTool.dat
+ MaintenanceTool.ini
+ network.xml
+ Tools/

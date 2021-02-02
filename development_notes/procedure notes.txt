@@ -1,0 +1,65 @@
+./qt-unified-linux-x64-4.0.1-1-online.run --accept-licenses --da --ao --confirm-command install
+
+./qt-unified-linux-x64-4.0.1-1-online.run --accept-licenses --da --ao --confirm-command install qt.tools.ninja qt.tools.qtcreator qt.tools.cmake qt.qt5.51210.gcc_64
+
+sudo apt install qt5-default
+
+List of Installed Packages: ./MaintenanceTool li
+
+
+qt.license.lgpl qt.tools.ninja qt.tools.qtcreator qt.license.thirdparty qt.qt5.51210.doc qt.tools qt.tools.cmake qt qt.qt5.51210 qt.tools.maintenance qt.qt5.51210.gcc_64
+
+
+total 32M
+drwxrwxr-x   6 ericg ericg 4.0K Feb  1 10:28 5.12.0/
+drwxrwxr-x   7 ericg ericg 4.0K Feb  1 10:24 5.12.10/
+drwxrwxr-x   6 ericg ericg 4.0K Feb  1 10:27 5.12.2/
+drwxrwxr-x   6 ericg ericg 4.0K Feb  1 10:26 5.12.4/
+drwxrwxr-x   6 ericg ericg 4.0K Feb  1 10:26 5.12.5/
+drwxrwxr-x   6 ericg ericg 4.0K Feb  1 10:23 5.12.6/
+drwxrwxr-x   6 ericg ericg 4.0K Feb  1 10:23 5.12.8/
+drwxrwxr-x   6 ericg ericg 4.0K Feb  1 10:23 5.12.9/
+drwxrwxr-x   4 ericg ericg 4.0K Feb  1 10:23 5.15.0/
+drwxrwxr-x   4 ericg ericg 4.0K Feb  1 10:23 5.15.1/
+-rw-r--r--   1 ericg ericg  91K Feb  1 10:30 components.xml
+drwxrwxr-x   2 ericg ericg 4.0K Feb  1 10:23 dist/
+drwxrwxr-x  12 ericg ericg 4.0K Feb  1 10:24 Docs/
+drwxrwxr-x  12 ericg ericg 4.0K Feb  1 10:29 Examples/
+-rw-r--r--   1 ericg ericg 2.2M Feb  1 10:41 InstallationLog.txt
+-rw-r--r--   1 ericg ericg   48 Feb  1 10:30 installer.dat
+drwxr-xr-x 149 ericg ericg  12K Feb  1 10:30 installerResources/
+drwxr-xr-x   2 ericg ericg 4.0K Feb  1 10:25 Licenses/
+-rwxr-xr-x   1 ericg ericg  28M Feb  1 10:30 MaintenanceTool*
+-rw-r--r--   1 ericg ericg 1.1M Feb  1 10:30 MaintenanceTool.dat
+-rw-r--r--   1 ericg ericg  76K Feb  1 10:30 MaintenanceTool.ini
+-rw-r--r--   1 ericg ericg  362 Feb  1 10:30 network.xml
+drwxrwxr-x  10 ericg ericg 4.0K Feb  1 10:25 Tools/
+
+
+
+
+qt.license.lgpl
+
+qt.tools.ninja
+
+qt.tools.qtcreator
+
+qt.license.thirdparty
+
+qt.qt5.51210.doc
+
+qt.tools
+
+qt.qt5.51210.examples
+
+qt.tools.cmake
+
+qt
+
+qt.qt5.51210
+
+qt.tools.maintenance
+
+qt.qt5.51210.gcc_64
+
+ 	

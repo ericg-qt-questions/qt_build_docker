@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --rm -v /Users/ericg/depot_question/qt_build_docker/Work:/public/Work -v /Users/ericg/depot_question/qt_build_docker/tmp:/tmp -w $(pwd) qt cmake $@
