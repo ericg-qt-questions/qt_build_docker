@@ -1,0 +1,39 @@
+* Build docker_test
+
+	1. docker build . --tag qt
+
+	2. ./docker-qmake
+
+	3. ./docker-make
+
+
+
+* From a Ubuntu Desktop install
+
+	1.  Make sure that Qt is installed. I install it with 
+	
+			./qt-unified-linux-x64-4.0.1-1-online.run --accept-licenses --da --ao --confirm-command install qt.tools.ninja qt.tools.qtcreator qt.tools.cmake qt.qt5.51210.gcc_64
+		
+		which requires no user-interaction
+	   
+	2. copy docker_test 
+
+	3. ./docker_test
+
+
+
+At this point, the error:
+
+	./docker_test: error while loading shared libraries: libQt5Gui.so.5: cannot open shared object file: No such file or directory
+
+may appear. In which case, it will be necessary to append to your lib search path. While it is possible to install an apt package to do this, you can use the lib directory from the qt installation.
+
+1. sudo echo "/home/ericg/Qt/5.12.10/gcc_64/lib" >> /etc/ld.so.conf.d/qt.conf
+	
+	* the path in the echo command will be a little different on your machine.
+	
+2. sudo ldconfig	
+
+Now that libQt5Gui can be found, ./docker_test will succeed.
+	
+

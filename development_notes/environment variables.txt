@@ -1,4 +1,0 @@
-set -gx PATH /home/ericg/Qt/5.12.10/bin/ $PATH
-set -gx QT_PLUGIN_PATH /home/ericg/Qt/5.12.10/plugins/
-set -gx QML_IMPORT_PATH /home/ericg/Qt/5.12.10/qml/
-set -gx QML2_IMPORT_PATH /home/ericg/Qt/5.12.10/qml/

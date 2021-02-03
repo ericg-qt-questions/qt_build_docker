@@ -1,0 +1,27 @@
+1. Create a Ubuntu 18.04 VM
+
+2. sudo apt update
+
+3. sudo apt upgrade
+
+4. sudo apt install git git-flow emacs fish openssh-server python3-pip python3-venv net-tools terminator build-essential curl 
+	* All of these probably aren't necessary, but there are part of my standard install	
+	
+5. sudo apt install libgl-dev libglu1-mesa-dev
+	* These are required to for the make to succeed
+	
+6. Setup qtaccount.ini in ~/.local/share/Qt 
+	* It is possible to run the Qt GUI installer once and have it create a qtaccount.ini for you which can be used elsewhere
+	
+7. Obtain the Qt online installer. I am using qt-unified-linux-x64-4.0.1-1-online.run
+
+8. Run the installer: ./qt-unified-linux-x64-4.0.1-1-online.run --accept-licenses --da --ao --confirm-command install qt.tools.ninja qt.tools.qtcreator qt.tools.cmake qt.qt5.51210.gcc_64
+	* requires no user interaction
+
+9. From the docker_test folder:
+
+	1. ~/Qt/5.12.10/gcc_64/bin/qmake
+	2. make
+	3. ./docker_test
+	
+	* the default Qt app should run
